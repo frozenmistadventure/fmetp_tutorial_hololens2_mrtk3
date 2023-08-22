@@ -5,6 +5,6 @@
 <STRONG>FMETP STREAM</STRONG> share your Game View to any platforms.
 Adding Live Stream feature into your apps with ease!
 
-- Asset Store Link: https://assetstore.unity.com/packages/slug/202537
+- Asset Store Link: https://assetstore.unity.com/packages/slug/221362
 
 Support: thelghome@gmail.com
